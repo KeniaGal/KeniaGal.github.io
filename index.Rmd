@@ -8,6 +8,7 @@ links:
     url: "mailto:keniagal@lcg.unam.mx"
   - label: Twitter
     url: "https://twitter.com/KeniaGalvan17"
+    
 output:
   postcards::jolla_blue
 ---
