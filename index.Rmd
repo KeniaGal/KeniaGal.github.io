@@ -1,6 +1,6 @@
 ---
-title: "Xiang Guo"
-image: "xiang.jpg"
+title: "Kenia AIslinn Galván Alcaraz"
+image: "Flower.jpg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/"
