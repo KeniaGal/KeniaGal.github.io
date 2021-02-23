@@ -1,15 +1,11 @@
 ---
-title: "Kenia AIslinn Galván Alcaraz"
+title: "Kenia Aislinn Galván Alcaraz"
 image: "Flower.jpg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/KeniaGal"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:keniagal@lcg.unam.mx"
 output:
   postcards::jolla_blue
 ---
